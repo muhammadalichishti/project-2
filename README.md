@@ -34,28 +34,6 @@ It is a simple tool for automatically analyzing texts which is made by using onl
       </p>
     </td>
   </tr>
-
-  <tr>
-    <td>3.</td>
-    <td>
-      <p align="center">
-      <img src="windows-xp-desktop-screen.png" title="Desktop" alt="Desktop" />
-      <br />
-      Desktop
-      </p>
-    </td>
-  </tr>
-  <tr>
-
-  <td>4.</td>
-    <td>
-      <p align="center">
-      <img src="windows-xp-notepad.png" title="Notepad" alt="Notepad" />
-      <br />
-      Notepad
-      </p>
-    </td>
-  </tr>
 </table>
 
 
