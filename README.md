@@ -18,7 +18,7 @@ It is a simple tool for automatically analyzing texts which is made by using onl
     <td>1.</td>
     <td>
       <p align="center">
-      <img src="./Readme Pictures/Text Analyzer 1.PNG" title="Text Writing Screen" alt="Text Writing Screen" />
+      <img src="./Readme Pictures/Text Analyzer 1.PNG" title="Text Writing Screen" alt="Text Writing Screen Picture" />
       <br />
       Text Writing Screen
       </p>
@@ -28,7 +28,7 @@ It is a simple tool for automatically analyzing texts which is made by using onl
     <td>2.</td>
     <td>
       <p align="center">
-      <img src="./Readme Pictures/Text Analyzer 2.PNG" title="Information Screen" alt="Information Screen" />
+      <img src="./Readme Pictures/Text Analyzer 2.PNG" title="Information Screen" alt="Information Screen Picture" />
       <br />
       Information Screen
       </p>
@@ -43,13 +43,13 @@ It is a simple tool for automatically analyzing texts which is made by using onl
 - Option 1
   - :fork_and_knife: Fork this repository
 - Option 2
-  -  :dancers: Clone this repo to your local machine using ```git clone https://github.com/mu-ali/project-6.git```
+  -  :dancers: Clone this repo to your local machine using ```git clone https://github.com/mu-ali/project-2.git```
 
 ### Step 2
 - **HACK AWAY** :hammer: :hammer: :hammer:
 
 ### Step 3
-- :repeat: Create a pull request using https://github.com/mu-ali/project-6/compare/
+- :repeat: Create a pull request using https://github.com/mu-ali/project-2/compare/
 
 
 ## License
